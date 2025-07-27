@@ -132,9 +132,9 @@ This project was brought to life by the following amazing people. A huge thank y
 | **Aarya Yadav** | [@Aarya2304](https://github.com/Aarya2304)        |
 | **Tirth Upadhyay** | [@Tirth-Upadhyay](https://github.com/Tirth-Upadhyay)      |
 
----
-
 _Special thanks to everyone who provided feedback during development._
+
+---
 
 ## 📧 Contact
 
