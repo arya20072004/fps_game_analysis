@@ -61,7 +61,7 @@ The prediction dashboard uses four machine learning models. Their accuracy, as e
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone (https://github.com/arya20072004/fps_game_analysis.git)
    cd fps_game_analysis
    ```
 
