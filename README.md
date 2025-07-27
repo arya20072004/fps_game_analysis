@@ -121,6 +121,19 @@ Once an application is running, open your web browser and navigate to the local 
 
 ---
 
+## ✍️ Authors & Contributors
+
+This project was brought to life by the following amazing people. A huge thank you to everyone for their hard work and dedication!
+
+| Name           | GitHub Profile                              |
+| :------------- | :------------------------------------------ | 
+| **Arya Borhade** | [@arya20072004]((https://github.com/arya20072004))        |
+| **Abhir Bengali** | [@Plasma008]((https://github.com/Plasma008))        |
+| **Aarya Yadav** | [@Aarya2304]((https://github.com/Aarya2304))        |
+| **Tirth Upadhyay** | [@Tirth-Upadhyay]((https://github.com/Tirth-Upadhyay))      |
+
+_Special thanks to everyone who provided feedback during development._
+
 ## 📧 Contact
 
 For suggestions or queries, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo-name/issues).
